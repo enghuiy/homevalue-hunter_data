@@ -13,9 +13,9 @@ Homevalue Hunter is an app that helps home buyers find locations that are underv
 - walkability: walkscore.com (API: http://api.walkscore.com/score?)
 
 ## Implementation
-- Data cleaning and assignment onto 672 locations (shapes)
-  > getData.ipynb
-  > prepareCrimeData.ipynb
-  > preparePrice-ROI.ipynb
-- populate Postgresql
-- Web App: Flask framework + mapbox API
+1. Data cleaning and assignment onto 672 locations (shapes)
+- getData.ipynb
+- prepareCrimeData.ipynb
+- preparePrice-ROI.ipynb
+2. populate Postgresql
+3. Web App: Flask framework + mapbox API
